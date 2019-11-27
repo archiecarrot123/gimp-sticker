@@ -1,0 +1,5 @@
+The_GIMP_icon_-_gnome.svg - Uneditied "source code" - GNU GPL
+gimp-square-sticker_template.svg - Edited "source code" - uses https://sticker.how/ specifications 21 March 2018. - "source code" licenced under GNU GPL
+gimp-hexagonal-sticker_template.svg - Edited "source code" - uses https://sticker.how/ specifications 21 March 2018. - "source code" licenced under GNU GPL
+gimp-hexagonal.png - generated "program" - uses https://sticker.how/ specifications 21 March 2018. - licenced under GNU GPL
+gimp-square.png - generated "program" - uses https://sticker.how/ specifications 21 March 2018. - licenced under GNU GPL
