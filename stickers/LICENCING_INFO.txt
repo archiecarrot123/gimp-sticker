@@ -3,4 +3,6 @@ gimp-square-sticker_template.svg - Edited "source code" - uses https://sticker.h
 gimp-hexagonal-sticker_template.svg - Edited "source code" - uses https://sticker.how/ specifications 21 March 2018. - "source code" licenced under GNU GPL (see ../LICENCE)
 gimp-hexagonal.png - generated "object code" - uses https://sticker.how/ specifications 21 March 2018. - licenced under GNU GPL (see ../LICENCE)
 gimp-square.png - generated "object code" - uses https://sticker.how/ specifications 21 March 2018. - licenced under GNU GPL (see ../LICENCE)
-this file - f**k it it's cc0 now i don't think there's anything about the notice's licence so yeah. yeah I just checked but i'm adding more info here so yeah. GPL is such a hassle.
+NEW STUFF --------------------------------------------------
+gimp-hexagonal-sticker-1.svg - Edited "source code" - uses https://sticker.how/ specifications 21 March 2018. - "source code" licenced under GNU GPL (see ../LICENCE)
+gimp-hexagonal-sticker-1.png - generated "object code" - uses https://sticker.how/ specifications 21 March 2018. - licenced under GNU GPL (see ../LICENCE)
